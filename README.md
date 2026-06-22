@@ -9,7 +9,6 @@ git clone https://github.com/Bill-Huangz/UR_handson.git
 
 # clone aup-learning-cloud repo, or cd to it. 
 git clone https://github.com/AMDResearch/aup-learning-cloud.git
-cd aup-learning-cloud
 
 # copy all the files
 cp UR_handson/* aup-learning-cloud/ -r

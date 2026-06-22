@@ -25,5 +25,6 @@ cd ../../../ # To the root of auplc
 alias python='python3' 
 cd RL
 python train.py --alg SAC --cuda
-
+python render.py
+python robo_render.py 
 ```
